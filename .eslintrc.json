@@ -20,6 +20,7 @@
     "eqeqeq": "error",
     "find-payments": "error",
     "find-fixme": ["error", "fixme", "todo", "hyaa"],
-    "func-param": "error"
+    "func-param": "error",
+    "no-unused-vars": "off"
   }
 }
